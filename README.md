@@ -5,3 +5,4 @@ yourself
 lucky
 settings
 jail
+hokage
