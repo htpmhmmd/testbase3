@@ -8,3 +8,4 @@ jail
 hokage
 jojo
 rekt
+deploy
