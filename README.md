@@ -7,3 +7,4 @@ settings
 jail
 hokage
 jojo
+rekt
