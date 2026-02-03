@@ -6,3 +6,4 @@ lucky
 settings
 jail
 hokage
+jojo
