@@ -7,6 +7,7 @@ settings
 jail
 hokage
 jojo
+test15
 rekt
 deploy
 reha
